@@ -4,11 +4,11 @@ Netty is an asynchronous event-driven network application framework for rapid de
 Netty简介
 netty 是一个高性能,可扩展的异步事件驱动的网络应用框架,它极大地简化了TCP和UDP客户端和服务器开发网络编程.
 
-Netty重要的四个内容:
-    1) Reactor线程模型:一种高性能的多线程程序 设计思路;
-    2) Netty中自己定义的Channel概念:增强版的通道概念;
-    3) ChannelPipeline职责链设计模式:事件处理机制;
-    4) 内存管理:增强的ByteBuf缓冲区
+## Netty重要的四个内容:
+    * 1) Reactor线程模型:一种高性能的多线程程序 设计思路;
+    * 2) Netty中自己定义的Channel概念:增强版的通道概念;
+    * 3) ChannelPipeline职责链设计模式:事件处理机制;
+    * 4) 内存管理:增强的ByteBuf缓冲区
     
 
 ## Links
